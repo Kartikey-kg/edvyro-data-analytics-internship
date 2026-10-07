@@ -1,0 +1,16 @@
+CustomerID,TenureMonths,TenureBand,MonthlyCharges,SupportTickets,ContractType,PaymentMethod,Churn,Segment,Score_MonthlyContract,Score_HighSupport,Score_ShortTenure,Score_HighCharge,ChurnRiskScore,RiskBand,RecommendedAction
+CUST-1001,12,7–12 months,49.99,3,Month-to-Month,Credit Card,Yes,High-touch monthly,2,2,0,0,4,High,Proactive support + retention offer; review unresolved issues.
+CUST-1002,24,13–24 months,79.99,1,One Year,Bank Transfer,No,Stable contracted,0,0,0,1,1,Low,Maintain service quality; monitor for ticket increases.
+CUST-1003,6,0–6 months,49.99,5,Month-to-Month,UPI,Yes,High-touch monthly,2,2,1,0,5,High,Proactive support + retention offer; review unresolved issues.
+CUST-1004,36,25+ months,149.99,0,Two Year,Credit Card,No,Stable contracted,0,0,0,1,1,Low,Maintain service quality; monitor for ticket increases.
+CUST-1005,8,7–12 months,79.99,4,Month-to-Month,Debit Card,Yes,High-touch monthly,2,2,0,1,5,High,Proactive support + retention offer; review unresolved issues.
+CUST-1006,18,13–24 months,49.99,2,One Year,UPI,No,Standard,0,0,0,0,0,Low,Routine engagement; no immediate escalation.
+CUST-1007,3,0–6 months,49.99,6,Month-to-Month,Credit Card,Yes,High-touch monthly,2,2,1,0,5,High,Proactive support + retention offer; review unresolved issues.
+CUST-1008,48,25+ months,149.99,1,Two Year,Bank Transfer,No,Stable contracted,0,0,0,1,1,Low,Maintain service quality; monitor for ticket increases.
+CUST-1009,15,13–24 months,79.99,2,One Year,Credit Card,No,High-value support,0,0,0,1,1,Low,Priority support follow-up and value reinforcement.
+CUST-1010,4,0–6 months,49.99,4,Month-to-Month,UPI,Yes,High-touch monthly,2,2,1,0,5,High,Proactive support + retention offer; review unresolved issues.
+CUST-1011,30,25+ months,149.99,0,Two Year,Credit Card,No,Stable contracted,0,0,0,1,1,Low,Maintain service quality; monitor for ticket increases.
+CUST-1012,14,13–24 months,79.99,3,Month-to-Month,Debit Card,Yes,High-touch monthly,2,2,0,1,5,High,Proactive support + retention offer; review unresolved issues.
+CUST-1013,22,13–24 months,49.99,1,One Year,Bank Transfer,No,Stable contracted,0,0,0,0,0,Low,Maintain service quality; monitor for ticket increases.
+CUST-1014,2,0–6 months,49.99,5,Month-to-Month,UPI,Yes,High-touch monthly,2,2,1,0,5,High,Proactive support + retention offer; review unresolved issues.
+CUST-1015,40,25+ months,149.99,1,Two Year,Credit Card,No,Stable contracted,0,0,0,1,1,Low,Maintain service quality; monitor for ticket increases.
