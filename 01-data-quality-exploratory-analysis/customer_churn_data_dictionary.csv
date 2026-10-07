@@ -1,0 +1,12 @@
+Field,Type,Description
+CustomerID,Identifier,Synthetic unique customer identifier; do not aggregate as a measure.
+Gender,Categorical,Gender category in the supplied synthetic data.
+Age,Numeric,Customer age.
+TenureMonths,Numeric,Completed months since signup.
+SubscriptionType,Categorical,"Basic, Pro, or Enterprise."
+MonthlyCharges,Numeric,Fictional monthly charge in INR.
+TotalCharges,Numeric,Fictional accumulated charge.
+ContractType,Categorical,"Month-to-Month, One Year, or Two Year."
+SupportTickets,Numeric count,Support tickets in the previous 90 days.
+PaymentMethod,Categorical,Payment method.
+Churn,Binary categorical,Whether the customer churned: Yes/No.
